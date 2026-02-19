@@ -1,17 +1,36 @@
 # Howdy
-Read me
+### I'm Chris 🤙 and I'm glad you're here
+![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white&style=flat)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=flat)
+![Claude](https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white&style=flat)
+![Supabase](https://img.shields.io/badge/Supabase-000000?logo=supabase&logoColor=white&style=flat)
+<br>
 
-📍 **Dallas-Fort Worth, TX** | 🔥 **DESIGNER** | 🚀 **Creating rocketfuel for projects**
+## About Me
 
-![Figma](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+🌈 Design leader @ Cisco Systems, Inc.\
+📍 Located somewhere in the United States 🇺🇸\
+⛰️ Hiking, mountain biking, snowboarding, and fly fishing are goated\
+🏎️ Add me on RocketLeague @GoodGuyMuppet
+
+> Spending my time learning and building new things to expand my horizons\
+> Looking for cool people who like to build cool things
+<br>
+
 
 ## Current Projects
 
-- ✏️ **[Portfolio](https://chrisnicolas.me)** - Building my personal brand and sharing my process
+- 🤓 **[Personal portfolio](https://chrisnicolas.me)** - Building my personal brand and sharing my process
+<br>
 
-## Previous Organizations
+## Deprecated Projects
 
-- **Cisco Systems, Inc.** - Designing the future of AI, AgenticOps, and assurance workflows
-- **Cloudflare, Inc.** - Re-invisiong how Zero Trust helps secure users, assets, and data
-- **Startclass, Inc.** - Founder of edtech communication platform for schools (K-12+)
-- **J.B. Hunt, Inc.** - Making it easier to move freight across North America
+- ✏️ **[Startclass](https://startclass.org)** - Edtech communication platform for K-Higher Education
+<br>
+
+## Quotes I love
+The ones that really make you sit there and think about how you are in control of your future.
+
+> The question isn't who is going to let me; it's who is going to stop me. - Ayn Rand\
+> Only put off until tomorrow what you are willing to die having left undone - Pablo Picasso
