@@ -33,6 +33,6 @@
 The ones that really make you sit there and think about how you are in control of your future.
 
 > The question isn't who is going to let me; it's who is going to stop me. - Ayn Rand\
-> Only put off until tomorrow what you are willing to die having left undone - Pablo Picasso/
+> Only put off until tomorrow what you are willing to die having left undone - Pablo Picasso
 -----------
 @heychrisnicolas on most socials
