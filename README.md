@@ -1,12 +1,12 @@
 # Howdy
 ### I'm Chris 🤙 and I'm glad you're here
-![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white&style=flat)
-![ChatGPT](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white&style=flat)
-![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=flat)
-![Claude](https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=white&style=flat)
-![Supabase](https://img.shields.io/badge/Supabase-000000?logo=supabase&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-06090E?logo=figma&logoColor=white&style=flat)
+![ChatGPT](https://img.shields.io/badge/OpenAI-06090E?logo=openai&logoColor=white&style=flat)
+![Cursor](https://img.shields.io/badge/Cursor-06090E?logo=cursor&logoColor=white&style=flat)
+![Claude](https://img.shields.io/badge/Claude-06090E?logo=anthropic&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-06090E?logo=javascript&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-06090E?logo=typescript&logoColor=white&style=flat)
+![Supabase](https://img.shields.io/badge/Supabase-06090E?logo=supabase&logoColor=white&style=flat)
 <br>
 
 ## About Me
