@@ -1,6 +1,7 @@
 # Howdy
 ### I'm Chris 🤙 and I'm glad you're here
 ![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white&style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=anthropic&logoColor=white&style=flat)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=flat)
 ![Claude](https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white&style=flat)
